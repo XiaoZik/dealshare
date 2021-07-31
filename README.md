@@ -2,15 +2,18 @@
 
 Deal Sharing mobile app
 
-## Getting Started
+GROUP 7 (PROJECT 4-DealSharing) SSE3151
 
-This project is a starting point for a Flutter application.
+MEMBERS:
 
-A few resources to get you started if this is your first Flutter project:
+MUHAMMAD ZIKRI BIN MOHD SHAFIE (204237)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+MUHAMMAD AIMAN BIN MOHD RAHIMI (204235)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+AZRI DZULQARNAIN BIN AZLAN (202374)
+
+MUHAMMAD SYAHRIDWAN BIN MUSTAFA BAKRI (202885)
+
+Link Video: https://youtu.be/vMXEQHGQCI4
+
+Link GitHub: https://github.com/XiaoZik/dealshare
